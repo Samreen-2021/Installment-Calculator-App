@@ -18,4 +18,4 @@
 - Find the result above. 
 
 ## Live Link
--
+-  https://samreen-2021.github.io/Installment-Calculator-App/
